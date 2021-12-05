@@ -4,4 +4,4 @@ This organization is a collection of software that make up the collaborative Iot
 of smart devices.
 
 
-This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse)
+This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse). It is no longer associated with the original project at all!
