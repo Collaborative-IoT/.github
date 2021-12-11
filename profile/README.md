@@ -37,4 +37,4 @@ Supported IoT servers:
 - [Home Assistant(coming soon)](https://github.com/home-assistant)
 
 
-This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse). It is no longer associated with the original project at all!
+This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse) for the frontend features. It is no longer associated with the original project at all!
