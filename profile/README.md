@@ -21,7 +21,7 @@ Collaborative Iot is a platform built for real-time control/monitoring
 of smart devices as a collective group with real-time audio and chat functionality.
 
 Things you could see when joining a collaborative IoT room:
-- People audio/text chatting in real-time.
+- People audio/text chatting in real-time(the communication is like : clubhouse voice system + twitch chat).
 - Room administrators giving room members access to their server that is connected to the room.
 - Live IoT control board display for each room. 
 - Twitch style chat with gifs and other animations.
