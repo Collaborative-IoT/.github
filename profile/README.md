@@ -28,7 +28,7 @@ Things you could see when joining a collaborative IoT room:
 - Room admin levels.
 
 There are many reasons to collaborate on IoT projects with peers or friends, Collaborative allows this without having to directly hand over
-authentication credentials to a person with the given ability to pass around permissions to your server. A connection in a room to an IoT server
+authentication credentials to a person, each user has the ability to pass around permissions to their server and revoke them. A connection in a room to an IoT server
 is owned by one user and this user controls access.
 
 
