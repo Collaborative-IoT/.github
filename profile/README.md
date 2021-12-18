@@ -36,5 +36,6 @@ Supported IoT servers:
 - [House-Of-Iot](https://github.com/House-of-IoT)
 - [Home Assistant(coming soon)](https://github.com/home-assistant)
 
+Want to self host? Check the documentation for detailed instructions.
 
 This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse) for the frontend features. It is no longer associated with the original project at all!
