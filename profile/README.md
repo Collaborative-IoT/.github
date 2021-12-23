@@ -38,6 +38,6 @@ Supported IoT servers:
 
 Want to self host? Check the documentation for detailed instructions.
 
-The repositories in this organization are named after the 12 knights of the round table.
+The repositories in this organization are named after the 12 knights of the round table to signify collaboration.
 
 This project started as a fork of the [DogeHouse Project](https://github.com/benawad/dogehouse) for the frontend features. It is no longer associated with the original project at all!
