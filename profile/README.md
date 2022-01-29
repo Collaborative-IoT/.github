@@ -20,7 +20,7 @@ of IoT servers as a collective group with real-time audio/chat functionality and
 
 Things you could see when joining a collaborative IoT room:
 - People audio/text chatting in real-time(the communication is like : clubhouse voice system + twitch chat).
-- Room administrators giving room members access to their server that is connected to the room.
+- Room administrators giving room members access to their IoT server that is connected to the room.
 - Live IoT control board display for each room. 
 - Twitch style chat with gifs and other animations.
 - Room admin levels.
