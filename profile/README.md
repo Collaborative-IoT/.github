@@ -34,7 +34,7 @@ Supported IoT servers:
 - [House-Of-Iot](https://github.com/House-of-IoT)
 - [Home Assistant(coming soon)](https://github.com/home-assistant)
 
-Want to self host? Check the documentation for detailed instructions.
+Want to self host? Check the [documentation](https://github.com/Collaborative-IoT/Docs) for detailed instructions.
 
 The repositories in this organization are named after the 12 knights of the round table to signify collective collaboration.
 
